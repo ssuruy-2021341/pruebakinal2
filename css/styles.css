@@ -1,0 +1,26 @@
+body{
+    margin: 50px;
+}
+
+
+
+h1 {
+    color: red
+}
+
+p{
+    font-size: 25px;
+    color: blue;
+}
+
+.prueba {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+}
+
+#tarde {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: fuchsia 
+}
